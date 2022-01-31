@@ -1,0 +1,21 @@
+{
+  "name": "api-for-vaccines",
+  "version": "1.0.0",
+  "description": "Test api",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "node src/app.js",
+    "start": "nodemon src/app.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^6.0.13",
+    "cors": "2.8.5"
+  },
+  "devDependencies": {
+    "nodemon": "2.0.15"
+  }
+}

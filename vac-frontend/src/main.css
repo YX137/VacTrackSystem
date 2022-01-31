@@ -1,0 +1,15 @@
+main {
+    margin: 2em
+}
+
+nav, .navbar {
+    position: sticky;
+}
+
+nav .nav-item, .navbar .nav-item {
+    padding: 1em
+}
+
+footer {
+    text-align: center;
+}
